@@ -1,0 +1,14 @@
+{
+  "twify" : {
+    "tweetType" : [ {
+      "tweets" : 262,
+      "share" : 0.87
+    }, {
+      "retweets" : 9,
+      "share" : 0.03
+    }, {
+      "replies" : 28,
+      "share" : 0.09
+    } ]
+  }
+}
